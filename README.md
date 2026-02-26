@@ -68,52 +68,6 @@ Outside of tech, I'm curious about psychology, philosophy, and music. For now, m
 *Cloud Platforms*  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-
-
-<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
-
-
-<h3 align="center">🚀 Featured Projects </h3>
-
-
-🔹 End-to-End MLOps Pipeline
-
-📌 [View Repository](https://github.com/PARTH-AI-DS20/End-to-End-MLOps-Pipeline)
-
-
-|Built a robust MLOps pipeline for sentiment analysis, automating ingestion, training, CI/CD, and deployment.|
-
-- Problem: Manual model deployment took 2+ days
-- Solution: Automated pipeline cut deployment to 15 minutes
-- Impact: 89% accuracy, 10x faster release
-
-
-<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
-
-
-🔹 Real-time Image Classification API (In Progress)
-
-📌 [View Repository](https://github.com/PARTH-AI-DS20/Real-time-Image-Classification-API)
-
-| Containerized and deployed a PyTorch model as a high-volume REST API with Kubernetes and AWS .|
-
-- Challenge: Scaling with low latency for 1000+ req/min
-- Approach: Automatic autoscaling and monitoring
-- Result: <200ms latency, 99.9% uptime
-
-<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
-
-
-🔹 ML Model Monitoring Dashboard (Planned)
-
-📌  [View Repository](https://github.com/PARTH-AI-DS20/ML-Model-Monitoring-Dashboard)
-
-|Real-time monitoring for production ML using Prometheus and Grafana to track metrics, drift, and alert on issues automatically|
-
-- Goal: Detect and address drift before accuracy drops
-- Implementation: Alerting & dashboards for live models
-- Outcome: Reduced downtime by 60%
-
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
