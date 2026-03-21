@@ -5,22 +5,6 @@
 
 <h3 align="center">👋 Welcome to my GitHub!</h3>
 
-
-<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
-
-
-<h3 align="center">🚀 Aspiring MLOps Engineer | Building Scalable ML Pipelines</h3>
-
-
-<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
-
-
-🚀 *AI & Data Science Student*  
-💡 Passionate about transforming ML research into *production-ready AI systems*  
-🔧 currently learning *Docker, Kubernetes, Cloud, and ML pipelines*  
-🎯 Current Goal: Build scalable and reliable AI solutions 
-
-
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
@@ -69,18 +53,6 @@ Outside of tech, I'm curious about psychology, philosophy, and music. For now, m
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
-
-
-<h3 align="center">📅 Currently Working On</h3>
-
-
--  🔧 Building an **end-to-end MLOps pipeline** with Docker, GitHub Action's & Kubernetes
--  ✍️ Writing and sharing my learning journey on **LinkedIn**
--  🌱 Continuously refining my skills in **scalable ML systems & automation**
-
-
-<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
-
 
 <h3 align="center">📊 GitHub Stats</h3>
   
