@@ -118,9 +118,3 @@ Outside of tech, I'm curious about psychology, philosophy, and music. For now, m
 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
-
-
-<p align="center">"Be happy and live a life you want."</p>
-
-
-<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
